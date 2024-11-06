@@ -1,6 +1,6 @@
 # Hello World web application
 
-modifications done by me
+modifications done by dev
 Creating a simple web application on *Java* in various ways:
 
 <table>
